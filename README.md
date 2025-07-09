@@ -32,9 +32,9 @@ graph TD
     
     B --> I[Frontend Dashboard]
     E --> I
-
-    ![alt text](image.png)
 ```
+![UI Screenshot](image.png)
+
 
 ### **Technology Stack:**
 - **Frontend**: React + TypeScript + Tailwind CSS
