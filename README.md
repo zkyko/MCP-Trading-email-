@@ -33,7 +33,7 @@ graph TD
     B --> I[Frontend Dashboard]
     E --> I
 ```
-![UI Screenshot](image.png)
+!(image.png)
 
 
 ### **Technology Stack:**
