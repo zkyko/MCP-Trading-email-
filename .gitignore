@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE/editor stuff
+.vscode/
+*.log
+
+# User files and build artifacts
+logs/
+output/
+uploads/
+summaries/
+*.png
+*.jpg
+*.jpeg
+
+# Node.js frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
